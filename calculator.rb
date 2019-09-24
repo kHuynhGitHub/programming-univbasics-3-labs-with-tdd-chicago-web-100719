@@ -1,1 +1,1 @@
-var first_number = "hello world!"
+first_number = "hello world!"
